@@ -3,7 +3,7 @@
 
 The backend for Android mvi example application. 
 
-Frontend [here](https://github.com/termtate/mvi).
+Android program [here](https://github.com/termtate/mvi).
 
 ## Description
 - fastapi backend
